@@ -14,9 +14,9 @@ setup(
     description="Pre process the textual data for NLP and machine learning applications",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
-    author="Real Python",
-    author_email="office@realpython.com",
+    url="https://github.com/praveen-AIT/dataPreprocess",
+    author="Parveen Kumar",
+    author_email="markrash4@gmail.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
