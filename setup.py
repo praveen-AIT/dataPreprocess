@@ -25,7 +25,7 @@ setup(
     ],
     packages=["dataPreprocess"],
     include_package_data=True,
-    install_requires=["collections", "nltk", "string", "bs4", "spacy", "unidecode", "word2number", "gensim", "emo_unicode"
+    install_requires=["collections", "nltk", "string", "beautifulsoup4", "spacy", "unidecode", "word2number", "gensim", "emo_unicode"
                       "pyspellchecker", "inflect"],
     entry_points={
         "console_scripts": [
