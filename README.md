@@ -1,8 +1,6 @@
 # dataPreprocess 0.2.7
 
-![Python](https://camo.githubusercontent.com/20e0f72b4f84dc5b42aceb95eb8eaa6c574746c0057e9e2525dd6cb4797d565f/687474703a2f2f6d7970792d6c616e672e6f72672f7374617469632f6d7970795f6c696768742e737667)
-[![PyPI](https://img.shields.io/pypi/v/PyGithub.svg)](https://pypi.python.org/pypi/PyGithub)
-[![readthedocs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://pygithub.readthedocs.io/en/latest/?badge=latest)
+
 
 Use this library to get an out of the box solution for all text pre-processing related problems. 
 A wide range of text processing methods have been added to this library and I will keep on adding more methods.
