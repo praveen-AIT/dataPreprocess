@@ -1,6 +1,8 @@
 # dataPreprocess 0.2.7
 
-
+![Python](https://github.com/praveen-AIT/dataPreprocess/blob/main/V1.jpg)
+[![PyPI](https://img.shields.io/pypi/v/PyGithub.svg)](https://pypi.python.org/pypi/PyGithub)
+[![readthedocs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://pygithub.readthedocs.io/en/latest/?badge=latest)
 
 Use this library to get an out of the box solution for all text pre-processing related problems. 
 A wide range of text processing methods have been added to this library and I will keep on adding more methods.
